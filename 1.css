@@ -1,0 +1,50 @@
+img{ 
+    max-width: 50vw;
+}
+body{
+    background-color: wheat;
+}
+h1{
+    color:blueviolet;
+}
+.info{
+    display: flex;
+}
+.A{
+    display: flex;
+    flex-direction: column;
+
+}
+.navigation{
+    padding: 2px 0vw;
+    background-color: none;    
+ 
+    text-transform: none;
+    margin-top: 2vh;
+}
+.navigation2{
+    background-color: white;
+    color: black;
+    display: flex;
+    flex-direction: row;
+
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.s { 
+    cursor: pointer;
+    padding: 0 2vw;
+
+    
+}
+.logo {
+    height: 5vh;
+    margin: 5px;
+}
+header {
+    background-color: #8b00ff;
+    min-height: 10vh;
+    min-width: 13vw;
+    display: flex;
+}
